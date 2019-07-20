@@ -1,7 +1,7 @@
 import spotipy
 import sys 
 import spotipy.util as util 
-from youtube_to_song import get_songs
+from utils import get_songs
 from constants import credentials 
 
 #authorize application
